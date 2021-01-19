@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3bd0bed1bd7359a73ebf3406c00a7f27.js"
+  "/precache-manifest.02ebd7645288c983a2007ab06a69d0c6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bobo"});
